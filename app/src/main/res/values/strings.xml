@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manchester United Squad</string>
+    <string name="no_data_error">No player were found</string>
+    <string name="no_internet_error">"Oops... An error occurred"</string>
+    <string name="searchbar_players">"find here.."</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+</resources>
